@@ -1,5 +1,20 @@
 # computer_networks
-Understand the various network layer, transport layer and application layer protocols and it also helps to design and implement the protocols using socket programming.
+_Understand the various network layer, transport layer and application layer protocols and it also helps to design and implement the protocols using socket programming._
+
+## Topics covered
+=> Necessary header files with respect to socket programming. </br>
+=> Basic Functions of Socket Programming. </br>
+=> Simple TCP/IP Client Server Communication. </br>
+=> UDP Echo Client Server Communication. </br>
+=> Concurrent TCP/IP Day-Time Server. </br>
+=> Half Duplex Chat Using TCP/IP. </br>
+=> Full Duplex Chat Using TCP/IP. </br>
+=> Implementation of File Transfer Protocol. </br>
+=> Remote Command Execution Using UDP. </br>
+=> Arp Implementation Using UDP. </br>
+
+## Using the repository
+Test using ```./server``` in a terminal separately and ```./client``` in a different terminal.
 
 ## Header Files
 The header files with respect to Socket Programming
@@ -48,6 +63,3 @@ It sets an error number when an error and that error can be displayed using perr
 
 ### ```arpa/inet.h```
 This is used to convert internet addresses between ASCII strings and network byte ordered binary values (values that are stored in socket address structures). It is used for inet_aton, inet_addr, inet_ntoa functions
-
-## Using the repository
-Test using ```./server``` in a terminal separately and ```./client``` in a different terminal.
