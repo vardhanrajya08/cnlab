@@ -2,7 +2,6 @@
 Creating the TCP Client workflow in this program using C.
 
  * Title : TCP client
- * Name : Aditya Pratap Singh Rajput
  * Subject : Network Protocols And Programming using C
 Note : please consider the TYPOS in comments.
 Thanks.
