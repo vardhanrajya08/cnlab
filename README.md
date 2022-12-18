@@ -1,7 +1,23 @@
 # computer_networks
+_Understand the various network layer, transport layer and application layer protocols and it also helps to design and implement the protocols using socket programming._
+
+## Topics covered
+=> Necessary header files with respect to socket programming. </br>
+=> Basic Functions of Socket Programming. </br>
+=> Simple TCP/IP Client Server Communication. </br>
+=> UDP Echo Client Server Communication. </br>
+=> Concurrent TCP/IP Day-Time Server. </br>
+=> Half Duplex Chat Using TCP/IP. </br>
+=> Full Duplex Chat Using TCP/IP. </br>
+=> Implementation of File Transfer Protocol. </br>
+=> Remote Command Execution Using UDP. </br>
+=> Arp Implementation Using UDP. </br>
+
+## Using the repository
+Test using ```./server``` in a terminal separately and ```./client``` in a different terminal.
 
 ## Header Files
-the header files with respect to Socket Programming
+The header files with respect to Socket Programming
 
 ### ```stdio.h```
 It is standard input and output library that provides simple and efficient buffered stream for IO interface.(scanf, printf, gets, putc etc.)
